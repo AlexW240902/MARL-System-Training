@@ -1,0 +1,27 @@
+2024-09-23 15:52:27,293 INFO    MainThread:6182 [wandb_setup.py:_flush():77] Current SDK version is 0.17.9
+2024-09-23 15:52:27,293 INFO    MainThread:6182 [wandb_setup.py:_flush():77] Configure stats pid to 6182
+2024-09-23 15:52:27,293 INFO    MainThread:6182 [wandb_setup.py:_flush():77] Loading settings from /home/alex/.config/wandb/settings
+2024-09-23 15:52:27,293 INFO    MainThread:6182 [wandb_setup.py:_flush():77] Loading settings from /home/alex/Desktop/atari/coop/wandb/settings
+2024-09-23 15:52:27,293 INFO    MainThread:6182 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-23 15:52:27,294 INFO    MainThread:6182 [wandb_setup.py:_flush():77] Applying setup settings: {'_disable_service': False}
+2024-09-23 15:52:27,294 INFO    MainThread:6182 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program_relpath': 'ppo_coop.py', 'program_abspath': '/home/alex/Desktop/atari/coop/ppo_coop.py', 'program': '/home/alex/Desktop/atari/coop/ppo_coop.py'}
+2024-09-23 15:52:27,294 INFO    MainThread:6182 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-23 15:52:27,294 INFO    MainThread:6182 [wandb_init.py:_log_setup():524] Logging user logs to /home/alex/Desktop/atari/coop/wandb/run-20240923_155227-fk66xmcv/logs/debug.log
+2024-09-23 15:52:27,294 INFO    MainThread:6182 [wandb_init.py:_log_setup():525] Logging internal logs to /home/alex/Desktop/atari/coop/wandb/run-20240923_155227-fk66xmcv/logs/debug-internal.log
+2024-09-23 15:52:27,294 INFO    MainThread:6182 [wandb_init.py:init():608] calling init triggers
+2024-09-23 15:52:27,294 INFO    MainThread:6182 [wandb_init.py:init():615] wandb.init called with sweep_config: {}
+config: {'exp_name': 'ppo_coo', 'seed': 1, 'torch_deterministic': True, 'cuda': True, 'track': True, 'wandb_project_name': 'Entombed-Coop', 'wandb_entity': None, 'capture_video': False, 'env_id': 'entombed_cooperative_v3', 'total_timesteps': 32000, 'learning_rate': 0.00025, 'num_envs': 16, 'num_steps': 128, 'anneal_lr': True, 'gamma': 0.99, 'gae_lambda': 0.95, 'num_minibatches': 4, 'update_epochs': 4, 'norm_adv': True, 'clip_coef': 0.1, 'clip_vloss': True, 'ent_coef': 0.01, 'vf_coef': 0.5, 'max_grad_norm': 0.5, 'target_kl': None, 'batch_size': 2048, 'minibatch_size': 512}
+2024-09-23 15:52:27,294 INFO    MainThread:6182 [wandb_init.py:init():658] starting backend
+2024-09-23 15:52:27,294 INFO    MainThread:6182 [wandb_init.py:init():662] setting up manager
+2024-09-23 15:52:27,296 INFO    MainThread:6182 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-09-23 15:52:27,301 INFO    MainThread:6182 [wandb_init.py:init():670] backend started and connected
+2024-09-23 15:52:27,304 INFO    MainThread:6182 [wandb_init.py:init():768] updated telemetry
+2024-09-23 15:52:27,304 INFO    MainThread:6182 [wandb_init.py:init():801] communicating run to backend with 90.0 second timeout
+2024-09-23 15:52:28,782 INFO    MainThread:6182 [wandb_init.py:init():852] starting run threads in backend
+2024-09-23 15:52:29,119 INFO    MainThread:6182 [wandb_run.py:_console_start():2465] atexit reg
+2024-09-23 15:52:29,119 INFO    MainThread:6182 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-09-23 15:52:29,119 INFO    MainThread:6182 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-09-23 15:52:29,120 INFO    MainThread:6182 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-09-23 15:52:29,122 INFO    MainThread:6182 [wandb_init.py:init():895] run started, returning control to user process
+2024-09-23 15:52:29,123 INFO    MainThread:6182 [wandb_run.py:_tensorboard_callback():1554] tensorboard callback: runs/entombed_cooperative_v3__ppo_coo__1__1727099544, True
+2024-09-23 15:57:01,778 WARNING MsgRouterThr:6182 [router.py:message_loop():77] message_loop has been closed

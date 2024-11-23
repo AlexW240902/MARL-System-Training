@@ -1,0 +1,10 @@
+0 No op
+1 Fire
+2 Up
+3 Right
+4 Left
+5 Down
+6 (10) Fire Up
+7 (11) Fire Right
+8 (12) Fire left
+9 (13) Fire down

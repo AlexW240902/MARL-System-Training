@@ -1,0 +1,205 @@
+2024-10-01 13:57:18,132 INFO    StreamThr :87809 [internal.py:wandb_internal():85] W&B internal server running at pid: 87809, started at: 2024-10-01 13:57:18.131499
+2024-10-01 13:57:18,134 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: status
+2024-10-01 13:57:18,136 INFO    WriterThread:87809 [datastore.py:open_for_write():87] open: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/run-nyjgt6gq.wandb
+2024-10-01 13:57:18,138 DEBUG   SenderThread:87809 [sender.py:send():391] send: header
+2024-10-01 13:57:18,139 DEBUG   SenderThread:87809 [sender.py:send():391] send: run
+2024-10-01 13:57:18,991 INFO    SenderThread:87809 [dir_watcher.py:__init__():211] watching files in: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files
+2024-10-01 13:57:18,991 INFO    SenderThread:87809 [sender.py:_start_run_threads():1200] run started: nyjgt6gq with start time 1727783838.131128
+2024-10-01 13:57:19,012 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: run_start
+2024-10-01 13:57:19,013 DEBUG   HandlerThread:87809 [system_info.py:__init__():26] System info init
+2024-10-01 13:57:19,013 DEBUG   HandlerThread:87809 [system_info.py:__init__():41] System info init done
+2024-10-01 13:57:19,014 INFO    HandlerThread:87809 [system_monitor.py:start():194] Starting system monitor
+2024-10-01 13:57:19,014 INFO    SystemMonitor:87809 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-10-01 13:57:19,014 INFO    HandlerThread:87809 [system_monitor.py:probe():214] Collecting system info
+2024-10-01 13:57:19,015 INFO    SystemMonitor:87809 [interfaces.py:start():188] Started cpu monitoring
+2024-10-01 13:57:19,017 INFO    SystemMonitor:87809 [interfaces.py:start():188] Started disk monitoring
+2024-10-01 13:57:19,018 INFO    SystemMonitor:87809 [interfaces.py:start():188] Started memory monitoring
+2024-10-01 13:57:19,019 INFO    SystemMonitor:87809 [interfaces.py:start():188] Started network monitoring
+2024-10-01 13:57:19,035 DEBUG   HandlerThread:87809 [system_info.py:probe():152] Probing system
+2024-10-01 13:57:19,038 DEBUG   HandlerThread:87809 [gitlib.py:_init_repo():56] git repository is invalid
+2024-10-01 13:57:19,038 DEBUG   HandlerThread:87809 [system_info.py:probe():200] Probing system done
+2024-10-01 13:57:19,038 DEBUG   HandlerThread:87809 [system_monitor.py:probe():223] {'os': 'Linux-6.8.0-45-generic-x86_64-with-glibc2.35', 'python': '3.10.12', 'heartbeatAt': '2024-10-01T11:57:19.035164', 'startedAt': '2024-10-01T11:57:18.123846', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '/home/alex/Desktop/atari/dqn/dqn_atari.py', 'codePathLocal': 'dqn_atari.py', 'codePath': 'dqn_atari.py', 'host': 'alex-linux', 'username': 'alex', 'executable': '/usr/bin/python3', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 1912.0096250000001, 'min': 1400.0, 'max': 2900.0}, 'cpu_freq_per_core': [{'current': 1431.855, 'min': 1400.0, 'max': 2900.0}, {'current': 1397.155, 'min': 1400.0, 'max': 2900.0}, {'current': 1404.496, 'min': 1400.0, 'max': 2900.0}, {'current': 1616.192, 'min': 1400.0, 'max': 2900.0}, {'current': 1397.4, 'min': 1400.0, 'max': 2900.0}, {'current': 1400.0, 'min': 1400.0, 'max': 2900.0}, {'current': 1723.26, 'min': 1400.0, 'max': 2900.0}, {'current': 1543.63, 'min': 1400.0, 'max': 2900.0}, {'current': 3005.335, 'min': 1400.0, 'max': 2900.0}, {'current': 1615.654, 'min': 1400.0, 'max': 2900.0}, {'current': 1645.697, 'min': 1400.0, 'max': 2900.0}, {'current': 1396.643, 'min': 1400.0, 'max': 2900.0}, {'current': 1495.061, 'min': 1400.0, 'max': 2900.0}, {'current': 1676.429, 'min': 1400.0, 'max': 2900.0}, {'current': 4289.564, 'min': 1400.0, 'max': 2900.0}, {'current': 1400.0, 'min': 1400.0, 'max': 2900.0}], 'disk': {'/': {'total': 97.37984466552734, 'used': 33.588951110839844}}, 'memory': {'total': 14.994266510009766}}
+2024-10-01 13:57:19,038 INFO    HandlerThread:87809 [system_monitor.py:probe():224] Finished collecting system info
+2024-10-01 13:57:19,038 INFO    HandlerThread:87809 [system_monitor.py:probe():227] Publishing system info
+2024-10-01 13:57:19,038 DEBUG   HandlerThread:87809 [system_info.py:_save_code():44] Saving code
+2024-10-01 13:57:19,039 DEBUG   HandlerThread:87809 [system_info.py:_save_code():67] Saving code done
+2024-10-01 13:57:19,039 INFO    HandlerThread:87809 [system_monitor.py:probe():229] Finished publishing system info
+2024-10-01 13:57:19,046 DEBUG   SenderThread:87809 [sender.py:send():391] send: files
+2024-10-01 13:57:19,046 INFO    SenderThread:87809 [sender.py:_save_file():1466] saving file wandb-metadata.json with policy now
+2024-10-01 13:57:19,047 INFO    SenderThread:87809 [sender.py:_save_file():1466] saving file code/dqn_atari.py with policy now
+2024-10-01 13:57:19,184 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: python_packages
+2024-10-01 13:57:19,185 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: python_packages
+2024-10-01 13:57:19,225 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-01 13:57:19,225 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: internal_messages
+2024-10-01 13:57:19,225 INFO    HandlerThread:87809 [handler.py:handle_tbrecord():785] handling tbrecord: tbrecord {
+  log_dir: "runs/entombed_cooperative_v3__dqn_atari__1__1727783834"
+  save: true
+}
+control {
+  relay_id: "27700356dd3a4d6ea6f538d918e8c4e2"
+}
+_info {
+  stream_id: "nyjgt6gq"
+}
+
+2024-10-01 13:57:19,225 DEBUG   HandlerThread:87809 [config_util.py:dict_from_config_file():70] no default config file found in config-defaults.yaml
+2024-10-01 13:57:19,226 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: stop_status
+2024-10-01 13:57:19,497 DEBUG   SenderThread:87809 [sender.py:send():391] send: telemetry
+2024-10-01 13:57:19,497 DEBUG   SenderThread:87809 [sender.py:send():391] send: tbrecord
+2024-10-01 13:57:19,805 INFO    wandb-upload_0:87809 [upload_job.py:push():130] Uploaded file /tmp/tmpahchmotiwandb/pcntzx9s-wandb-metadata.json
+2024-10-01 13:57:19,998 INFO    Thread-12 :87809 [dir_watcher.py:_on_file_created():271] file/dir created: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/wandb-metadata.json
+2024-10-01 13:57:20,002 INFO    Thread-12 :87809 [dir_watcher.py:_on_file_created():271] file/dir created: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/code/dqn_atari.py
+2024-10-01 13:57:20,002 INFO    Thread-12 :87809 [dir_watcher.py:_on_file_created():271] file/dir created: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/requirements.txt
+2024-10-01 13:57:20,002 INFO    Thread-12 :87809 [dir_watcher.py:_on_file_created():271] file/dir created: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/code
+2024-10-01 13:57:20,418 INFO    wandb-upload_1:87809 [upload_job.py:push():130] Uploaded file /tmp/tmpahchmotiwandb/uec2n8wa-code/dqn_atari.py
+2024-10-01 13:57:20,829 DEBUG   SenderThread:87809 [sender.py:send():391] send: files
+2024-10-01 13:57:20,829 INFO    SenderThread:87809 [sender.py:_save_file():1466] saving file events.out.tfevents.1727783839.alex-linux.87771.0 with policy live
+2024-10-01 13:57:20,996 INFO    Thread-12 :87809 [dir_watcher.py:_on_file_created():271] file/dir created: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/output.log
+2024-10-01 13:57:20,997 INFO    Thread-12 :87809 [dir_watcher.py:_on_file_created():271] file/dir created: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/events.out.tfevents.1727783839.alex-linux.87771.0
+2024-10-01 13:57:21,338 INFO    wandb-upload_0:87809 [upload_job.py:push():130] Uploaded file /tmp/tmpahchmotiwandb/43u6nwv6-events.out.tfevents.1727783839.alex-linux.87771.0
+2024-10-01 13:57:21,647 DEBUG   SenderThread:87809 [sender.py:send():391] send: exit
+2024-10-01 13:57:21,647 INFO    SenderThread:87809 [sender.py:send_exit():598] handling exit code: 1
+2024-10-01 13:57:21,647 INFO    SenderThread:87809 [sender.py:send_exit():600] handling runtime: 2
+2024-10-01 13:57:21,648 INFO    SenderThread:87809 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-10-01 13:57:21,648 INFO    SenderThread:87809 [sender.py:send_exit():606] send defer
+2024-10-01 13:57:21,649 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:21,649 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 0
+2024-10-01 13:57:21,649 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:21,649 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 0
+2024-10-01 13:57:21,649 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 1
+2024-10-01 13:57:21,649 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:21,649 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 1
+2024-10-01 13:57:21,650 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:21,650 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 1
+2024-10-01 13:57:21,650 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 2
+2024-10-01 13:57:21,650 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:21,650 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 2
+2024-10-01 13:57:21,650 INFO    HandlerThread:87809 [system_monitor.py:finish():203] Stopping system monitor
+2024-10-01 13:57:21,650 INFO    HandlerThread:87809 [interfaces.py:finish():200] Joined cpu monitor
+2024-10-01 13:57:21,650 DEBUG   SystemMonitor:87809 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-10-01 13:57:21,651 INFO    HandlerThread:87809 [interfaces.py:finish():200] Joined disk monitor
+2024-10-01 13:57:21,651 DEBUG   SystemMonitor:87809 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-10-01 13:57:21,651 INFO    HandlerThread:87809 [interfaces.py:finish():200] Joined memory monitor
+2024-10-01 13:57:21,651 DEBUG   SystemMonitor:87809 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-10-01 13:57:21,651 INFO    HandlerThread:87809 [interfaces.py:finish():200] Joined network monitor
+2024-10-01 13:57:21,652 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:21,652 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 2
+2024-10-01 13:57:21,652 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 3
+2024-10-01 13:57:21,652 DEBUG   SenderThread:87809 [sender.py:send():391] send: stats
+2024-10-01 13:57:21,652 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:21,652 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 3
+2024-10-01 13:57:21,652 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:21,652 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 3
+2024-10-01 13:57:21,652 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 4
+2024-10-01 13:57:21,653 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:21,653 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 4
+2024-10-01 13:57:21,997 INFO    Thread-12 :87809 [dir_watcher.py:_on_file_created():271] file/dir created: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/wandb-summary.json
+2024-10-01 13:57:22,998 INFO    Thread-12 :87809 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/output.log
+2024-10-01 13:57:23,998 INFO    Thread-12 :87809 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/output.log
+2024-10-01 13:57:27,230 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-01 13:57:27,230 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: status_report
+2024-10-01 13:57:27,231 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:27,231 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 4
+2024-10-01 13:57:27,231 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 5
+2024-10-01 13:57:27,231 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: poll_exit
+2024-10-01 13:57:27,231 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:27,232 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 5
+2024-10-01 13:57:27,232 DEBUG   SenderThread:87809 [sender.py:send():391] send: summary
+2024-10-01 13:57:27,233 INFO    SenderThread:87809 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-10-01 13:57:27,233 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:27,233 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 5
+2024-10-01 13:57:27,233 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 6
+2024-10-01 13:57:27,233 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:27,234 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 6
+2024-10-01 13:57:27,234 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:27,234 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 6
+2024-10-01 13:57:27,239 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: status_report
+2024-10-01 13:57:27,493 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 7
+2024-10-01 13:57:27,493 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:27,493 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 7
+2024-10-01 13:57:27,494 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:27,494 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 7
+2024-10-01 13:57:27,649 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: keepalive
+2024-10-01 13:57:27,650 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-01 13:57:28,000 INFO    Thread-12 :87809 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/wandb-summary.json
+2024-10-01 13:57:28,000 INFO    Thread-12 :87809 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/config.yaml
+2024-10-01 13:57:29,636 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 8
+2024-10-01 13:57:29,636 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: poll_exit
+2024-10-01 13:57:29,637 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:29,637 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 8
+2024-10-01 13:57:29,637 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:29,637 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 8
+2024-10-01 13:57:29,638 INFO    SenderThread:87809 [job_builder.py:build():443] Attempting to build job artifact
+2024-10-01 13:57:29,638 INFO    SenderThread:87809 [job_builder.py:_get_source_type():583] no source found
+2024-10-01 13:57:29,638 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 9
+2024-10-01 13:57:29,639 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:29,639 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 9
+2024-10-01 13:57:29,639 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:29,639 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 9
+2024-10-01 13:57:29,639 INFO    SenderThread:87809 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-10-01 13:57:29,651 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-01 13:57:30,002 INFO    SenderThread:87809 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/output.log
+2024-10-01 13:57:30,003 INFO    SenderThread:87809 [dir_watcher.py:finish():388] scan: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files
+2024-10-01 13:57:30,003 INFO    SenderThread:87809 [dir_watcher.py:finish():402] scan save: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/wandb-summary.json wandb-summary.json
+2024-10-01 13:57:30,003 INFO    SenderThread:87809 [dir_watcher.py:finish():402] scan save: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/config.yaml config.yaml
+2024-10-01 13:57:30,003 INFO    SenderThread:87809 [dir_watcher.py:finish():402] scan save: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/requirements.txt requirements.txt
+2024-10-01 13:57:30,004 INFO    SenderThread:87809 [dir_watcher.py:finish():402] scan save: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/wandb-metadata.json wandb-metadata.json
+2024-10-01 13:57:30,004 INFO    SenderThread:87809 [dir_watcher.py:finish():402] scan save: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/output.log output.log
+2024-10-01 13:57:30,016 INFO    SenderThread:87809 [dir_watcher.py:finish():402] scan save: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/events.out.tfevents.1727783839.alex-linux.87771.0 events.out.tfevents.1727783839.alex-linux.87771.0
+2024-10-01 13:57:30,016 INFO    SenderThread:87809 [dir_watcher.py:finish():402] scan save: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/code/dqn_atari.py code/dqn_atari.py
+2024-10-01 13:57:30,017 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 10
+2024-10-01 13:57:30,017 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: poll_exit
+2024-10-01 13:57:30,017 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:30,017 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 10
+2024-10-01 13:57:30,020 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:30,020 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 10
+2024-10-01 13:57:30,021 INFO    SenderThread:87809 [file_pusher.py:finish():169] shutting down file pusher
+2024-10-01 13:57:30,364 INFO    wandb-upload_2:87809 [upload_job.py:push():130] Uploaded file /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/config.yaml
+2024-10-01 13:57:30,434 INFO    wandb-upload_0:87809 [upload_job.py:push():130] Uploaded file /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/requirements.txt
+2024-10-01 13:57:30,442 INFO    wandb-upload_1:87809 [upload_job.py:push():130] Uploaded file /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/wandb-summary.json
+2024-10-01 13:57:30,474 INFO    wandb-upload_3:87809 [upload_job.py:push():130] Uploaded file /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/files/output.log
+2024-10-01 13:57:30,652 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-01 13:57:30,653 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: poll_exit
+2024-10-01 13:57:30,675 INFO    Thread-11 (_thread_body):87809 [sender.py:transition_state():626] send defer: 11
+2024-10-01 13:57:30,676 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:30,676 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 11
+2024-10-01 13:57:30,677 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:30,677 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 11
+2024-10-01 13:57:30,677 INFO    SenderThread:87809 [file_pusher.py:join():175] waiting for file pusher
+2024-10-01 13:57:30,677 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 12
+2024-10-01 13:57:30,678 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:30,678 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 12
+2024-10-01 13:57:30,678 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:30,679 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 12
+2024-10-01 13:57:30,679 INFO    SenderThread:87809 [file_stream.py:finish():601] file stream finish called
+2024-10-01 13:57:30,863 INFO    SenderThread:87809 [file_stream.py:finish():605] file stream finish is done
+2024-10-01 13:57:30,863 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 13
+2024-10-01 13:57:30,863 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:30,863 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 13
+2024-10-01 13:57:30,864 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:30,864 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 13
+2024-10-01 13:57:30,864 INFO    SenderThread:87809 [sender.py:transition_state():626] send defer: 14
+2024-10-01 13:57:30,865 DEBUG   SenderThread:87809 [sender.py:send():391] send: final
+2024-10-01 13:57:30,865 DEBUG   SenderThread:87809 [sender.py:send():391] send: footer
+2024-10-01 13:57:30,865 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: defer
+2024-10-01 13:57:30,865 INFO    HandlerThread:87809 [handler.py:handle_request_defer():184] handle defer: 14
+2024-10-01 13:57:30,865 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: defer
+2024-10-01 13:57:30,865 INFO    SenderThread:87809 [sender.py:send_request_defer():622] handle sender defer: 14
+2024-10-01 13:57:30,866 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-01 13:57:30,867 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: poll_exit
+2024-10-01 13:57:30,867 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: server_info
+2024-10-01 13:57:30,868 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-01 13:57:30,868 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: server_info
+2024-10-01 13:57:30,871 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: get_summary
+2024-10-01 13:57:30,872 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: sampled_history
+2024-10-01 13:57:30,873 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: internal_messages
+2024-10-01 13:57:31,067 DEBUG   SenderThread:87809 [sender.py:send_request():418] send_request: poll_exit
+2024-10-01 13:57:31,067 INFO    MainThread:87809 [wandb_run.py:_footer_history_summary_info():4088] rendering history
+2024-10-01 13:57:31,068 INFO    MainThread:87809 [wandb_run.py:_footer_history_summary_info():4120] rendering summary
+2024-10-01 13:57:31,068 INFO    MainThread:87809 [wandb_run.py:_footer_sync_info():4047] logging synced files
+2024-10-01 13:57:31,068 DEBUG   HandlerThread:87809 [handler.py:handle_request():158] handle_request: shutdown
+2024-10-01 13:57:31,068 INFO    HandlerThread:87809 [handler.py:finish():884] shutting down handler
+2024-10-01 13:57:31,868 INFO    WriterThread:87809 [datastore.py:close():296] close: /home/alex/Desktop/atari/dqn/wandb/run-20241001_135718-nyjgt6gq/run-nyjgt6gq.wandb
+2024-10-01 13:57:32,068 INFO    SenderThread:87809 [sender.py:finish():1631] shutting down sender
+2024-10-01 13:57:32,068 INFO    SenderThread:87809 [file_pusher.py:finish():169] shutting down file pusher
+2024-10-01 13:57:32,068 INFO    SenderThread:87809 [file_pusher.py:join():175] waiting for file pusher

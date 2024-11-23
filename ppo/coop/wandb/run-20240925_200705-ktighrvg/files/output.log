@@ -1,0 +1,1457 @@
+
+Entro no_grad()
+SPS: 142
+Entro no_grad()
+SPS: 150
+-20.0
+game=5, global_step=9248, player0-episodic_return=-16.7
+-20.0
+game=5, global_step=9248, player1-episodic_return=-16.7
+-20.0
+game=9, global_step=10368, player0-episodic_return=-13.200000000000008
+-20.0
+game=9, global_step=10368, player1-episodic_return=-13.200000000000008
+-20.0
+game=4, global_step=10720, player0-episodic_return=-17.199999999999996
+-20.0
+game=4, global_step=10720, player1-episodic_return=-17.199999999999996
+-20.0
+game=10, global_step=10816, player0-episodic_return=-16.899999999999995
+-20.0
+game=10, global_step=10816, player1-episodic_return=-16.899999999999995
+-20.0
+game=1, global_step=10848, player0-episodic_return=-11.700000000000014
+-20.0
+game=1, global_step=10848, player1-episodic_return=-11.700000000000014
+-20.0
+game=7, global_step=11200, player0-episodic_return=-15.7
+-20.0
+game=7, global_step=11200, player1-episodic_return=-15.7
+-20.0
+game=11, global_step=12096, player0-episodic_return=-12.900000000000013
+-20.0
+game=11, global_step=12096, player1-episodic_return=-12.900000000000013
+Entro no_grad()
+SPS: 152
+-20.0
+game=8, global_step=12576, player0-episodic_return=-19.1
+-20.0
+game=8, global_step=12576, player1-episodic_return=-19.1
+-20.0
+game=3, global_step=12736, player0-episodic_return=-18.6
+-20.0
+game=3, global_step=12736, player1-episodic_return=-18.6
+-20.0
+game=14, global_step=13760, player0-episodic_return=-15.4
+-20.0
+game=14, global_step=13760, player1-episodic_return=-15.4
+-20.0
+game=6, global_step=15776, player0-episodic_return=-14.200000000000003
+-20.0
+game=6, global_step=15776, player1-episodic_return=-14.200000000000003
+-20.0
+game=0, global_step=16352, player0-episodic_return=-12.400000000000016
+-20.0
+game=0, global_step=16352, player1-episodic_return=-12.400000000000016
+Entro no_grad()
+SPS: 153
+-20.0
+game=13, global_step=17024, player0-episodic_return=-18.0
+-20.0
+game=13, global_step=17024, player1-episodic_return=-18.0
+-20.0
+game=15, global_step=17056, player0-episodic_return=-17.9
+-20.0
+game=15, global_step=17056, player1-episodic_return=-17.9
+-20.0
+game=2, global_step=17216, player0-episodic_return=-17.4
+-20.0
+game=2, global_step=17216, player1-episodic_return=-17.4
+-20.0
+game=12, global_step=17440, player0-episodic_return=-16.7
+-20.0
+game=12, global_step=17440, player1-episodic_return=-16.7
+-20.0
+game=5, global_step=17760, player0-episodic_return=-15.7
+-20.0
+game=5, global_step=17760, player1-episodic_return=-15.7
+-20.0
+game=9, global_step=18880, player0-episodic_return=-17.299999999999997
+-20.0
+game=9, global_step=18880, player1-episodic_return=-17.299999999999997
+-20.0
+game=7, global_step=19584, player0-episodic_return=-15.099999999999998
+-20.0
+game=7, global_step=19584, player1-episodic_return=-15.099999999999998
+Entro no_grad()
+SPS: 154
+-20.0
+game=1, global_step=22496, player0-episodic_return=-13.700000000000006
+-20.0
+game=1, global_step=22496, player1-episodic_return=-13.700000000000006
+-20.0
+game=4, global_step=22496, player0-episodic_return=-13.700000000000006
+-20.0
+game=4, global_step=22496, player1-episodic_return=-13.700000000000006
+-20.0
+game=11, global_step=23744, player0-episodic_return=-14.899999999999999
+-20.0
+game=11, global_step=23744, player1-episodic_return=-14.899999999999999
+-20.0
+game=8, global_step=24096, player0-episodic_return=-13.800000000000006
+-20.0
+game=8, global_step=24096, player1-episodic_return=-13.800000000000006
+-20.0
+game=3, global_step=24256, player0-episodic_return=-13.30000000000001
+-20.0
+game=3, global_step=24256, player1-episodic_return=-13.30000000000001
+Entro no_grad()
+SPS: 154
+-20.0
+game=10, global_step=25216, player0-episodic_return=-18.0
+-20.0
+game=10, global_step=25216, player1-episodic_return=-18.0
+-20.0
+game=14, global_step=25312, player0-episodic_return=-17.7
+-20.0
+game=14, global_step=25312, player1-episodic_return=-17.7
+-20.0
+game=13, global_step=25376, player0-episodic_return=-17.5
+-20.0
+game=13, global_step=25376, player1-episodic_return=-17.5
+-20.0
+game=5, global_step=26112, player0-episodic_return=-15.200000000000001
+-20.0
+game=5, global_step=26112, player1-episodic_return=-15.200000000000001
+-20.0
+game=9, global_step=27232, player0-episodic_return=-16.799999999999997
+-20.0
+game=9, global_step=27232, player1-episodic_return=-16.799999999999997
+-20.0
+game=0, global_step=27872, player0-episodic_return=-14.8
+-20.0
+game=0, global_step=27872, player1-episodic_return=-14.8
+-20.0
+game=7, global_step=27936, player0-episodic_return=-14.600000000000001
+-20.0
+game=7, global_step=27936, player1-episodic_return=-14.600000000000001
+-20.0
+game=15, global_step=28576, player0-episodic_return=-12.600000000000014
+-20.0
+game=15, global_step=28576, player1-episodic_return=-12.600000000000014
+Entro no_grad()
+SPS: 154
+-20.0
+game=2, global_step=28736, player0-episodic_return=-19.8
+-20.0
+game=2, global_step=28736, player1-episodic_return=-19.8
+-20.0
+game=6, global_step=30464, player0-episodic_return=-14.400000000000004
+-20.0
+game=6, global_step=30464, player1-episodic_return=-14.400000000000004
+-20.0
+game=12, global_step=31584, player0-episodic_return=-15.999999999999996
+-20.0
+game=12, global_step=31584, player1-episodic_return=-15.999999999999996
+-20.0
+game=8, global_step=32448, player0-episodic_return=-13.30000000000001
+-20.0
+game=8, global_step=32448, player1-episodic_return=-13.30000000000001
+Entro no_grad()
+SPS: 155
+-20.0
+game=10, global_step=33568, player0-episodic_return=-17.5
+-20.0
+game=10, global_step=33568, player1-episodic_return=-17.5
+-20.0
+game=11, global_step=33728, player0-episodic_return=-17.0
+-20.0
+game=11, global_step=33728, player1-episodic_return=-17.0
+-20.0
+game=1, global_step=34016, player0-episodic_return=-16.099999999999998
+-20.0
+game=1, global_step=34016, player1-episodic_return=-16.099999999999998
+-20.0
+game=5, global_step=34464, player0-episodic_return=-14.700000000000003
+-20.0
+game=5, global_step=34464, player1-episodic_return=-14.700000000000003
+-20.0
+game=3, global_step=35616, player0-episodic_return=-16.199999999999996
+-20.0
+game=3, global_step=35616, player1-episodic_return=-16.199999999999996
+-20.0
+game=13, global_step=35680, player0-episodic_return=-15.999999999999996
+-20.0
+game=13, global_step=35680, player1-episodic_return=-15.999999999999996
+-20.0
+game=14, global_step=35808, player0-episodic_return=-15.599999999999998
+-20.0
+game=14, global_step=35808, player1-episodic_return=-15.599999999999998
+-20.0
+game=7, global_step=36288, player0-episodic_return=-14.100000000000003
+-20.0
+game=7, global_step=36288, player1-episodic_return=-14.100000000000003
+-20.0
+game=4, global_step=36800, player0-episodic_return=-12.500000000000014
+-20.0
+game=4, global_step=36800, player1-episodic_return=-12.500000000000014
+Entro no_grad()
+SPS: 155
+-20.0
+game=2, global_step=37088, player0-episodic_return=-19.3
+-20.0
+game=2, global_step=37088, player1-episodic_return=-19.3
+-20.0
+game=9, global_step=37600, player0-episodic_return=-17.7
+-20.0
+game=9, global_step=37600, player1-episodic_return=-17.7
+-20.0
+game=6, global_step=38816, player0-episodic_return=-13.900000000000006
+-20.0
+game=6, global_step=38816, player1-episodic_return=-13.900000000000006
+-20.0
+game=0, global_step=39008, player0-episodic_return=-13.300000000000008
+-20.0
+game=0, global_step=39008, player1-episodic_return=-13.300000000000008
+-20.0
+game=12, global_step=39936, player0-episodic_return=-15.499999999999996
+-20.0
+game=12, global_step=39936, player1-episodic_return=-15.499999999999996
+-20.0
+game=8, global_step=40800, player0-episodic_return=-12.800000000000011
+-20.0
+game=8, global_step=40800, player1-episodic_return=-12.800000000000011
+Entro no_grad()
+SPS: 155
+-20.0
+game=15, global_step=41312, player0-episodic_return=-18.9
+-20.0
+game=15, global_step=41312, player1-episodic_return=-18.9
+-20.0
+game=10, global_step=41920, player0-episodic_return=-17.0
+-20.0
+game=10, global_step=41920, player1-episodic_return=-17.0
+-20.0
+game=11, global_step=42080, player0-episodic_return=-16.5
+-20.0
+game=11, global_step=42080, player1-episodic_return=-16.5
+-20.0
+game=1, global_step=42368, player0-episodic_return=-15.6
+-20.0
+game=1, global_step=42368, player1-episodic_return=-15.6
+-20.0
+game=5, global_step=42816, player0-episodic_return=-14.200000000000005
+-20.0
+game=5, global_step=42816, player1-episodic_return=-14.200000000000005
+-20.0
+game=3, global_step=43968, player0-episodic_return=-15.699999999999996
+-20.0
+game=3, global_step=43968, player1-episodic_return=-15.699999999999996
+-20.0
+game=13, global_step=44032, player0-episodic_return=-15.499999999999996
+-20.0
+game=13, global_step=44032, player1-episodic_return=-15.499999999999996
+-20.0
+game=14, global_step=44160, player0-episodic_return=-15.099999999999998
+-20.0
+game=14, global_step=44160, player1-episodic_return=-15.099999999999998
+-20.0
+game=7, global_step=44640, player0-episodic_return=-13.600000000000007
+-20.0
+game=7, global_step=44640, player1-episodic_return=-13.600000000000007
+Entro no_grad()
+SPS: 155
+-20.0
+game=4, global_step=45152, player0-episodic_return=-19.7
+-20.0
+game=4, global_step=45152, player1-episodic_return=-19.7
+-20.0
+game=9, global_step=45952, player0-episodic_return=-17.2
+-20.0
+game=9, global_step=45952, player1-episodic_return=-17.2
+-20.0
+game=12, global_step=48288, player0-episodic_return=-15.0
+-20.0
+game=12, global_step=48288, player1-episodic_return=-15.0
+-20.0
+game=2, global_step=48448, player0-episodic_return=-14.5
+-20.0
+game=2, global_step=48448, player1-episodic_return=-14.5
+-20.0
+game=8, global_step=49152, player0-episodic_return=-12.300000000000015
+-20.0
+game=8, global_step=49152, player1-episodic_return=-12.300000000000015
+Entro no_grad()
+SPS: 155
+-20.0
+game=15, global_step=49664, player0-episodic_return=-18.4
+-20.0
+game=15, global_step=49664, player1-episodic_return=-18.4
+-20.0
+game=6, global_step=50144, player0-episodic_return=-16.9
+-20.0
+game=6, global_step=50144, player1-episodic_return=-16.9
+-20.0
+game=0, global_step=50240, player0-episodic_return=-16.599999999999998
+-20.0
+game=0, global_step=50240, player1-episodic_return=-16.599999999999998
+-20.0
+game=10, global_step=50272, player0-episodic_return=-16.5
+-20.0
+game=10, global_step=50272, player1-episodic_return=-16.5
+-20.0
+game=11, global_step=50432, player0-episodic_return=-15.999999999999998
+-20.0
+game=11, global_step=50432, player1-episodic_return=-15.999999999999998
+-20.0
+game=1, global_step=50720, player0-episodic_return=-15.100000000000001
+-20.0
+game=1, global_step=50720, player1-episodic_return=-15.100000000000001
+-20.0
+game=5, global_step=51168, player0-episodic_return=-13.700000000000006
+-20.0
+game=5, global_step=51168, player1-episodic_return=-13.700000000000006
+-20.0
+game=3, global_step=52320, player0-episodic_return=-15.2
+-20.0
+game=3, global_step=52320, player1-episodic_return=-15.2
+-20.0
+game=13, global_step=52384, player0-episodic_return=-15.0
+-20.0
+game=13, global_step=52384, player1-episodic_return=-15.0
+-20.0
+game=14, global_step=52512, player0-episodic_return=-14.600000000000001
+-20.0
+game=14, global_step=52512, player1-episodic_return=-14.600000000000001
+-20.0
+game=7, global_step=52992, player0-episodic_return=-13.10000000000001
+-20.0
+game=7, global_step=52992, player1-episodic_return=-13.10000000000001
+Entro no_grad()
+SPS: 155
+-20.0
+game=4, global_step=53504, player0-episodic_return=-19.2
+-20.0
+game=4, global_step=53504, player1-episodic_return=-19.2
+-20.0
+game=9, global_step=54304, player0-episodic_return=-16.7
+-20.0
+game=9, global_step=54304, player1-episodic_return=-16.7
+-20.0
+game=12, global_step=56640, player0-episodic_return=-14.5
+-20.0
+game=12, global_step=56640, player1-episodic_return=-14.5
+-20.0
+game=2, global_step=56800, player0-episodic_return=-14.000000000000004
+-20.0
+game=2, global_step=56800, player1-episodic_return=-14.000000000000004
+Entro no_grad()
+SPS: 155
+-20.0
+game=8, global_step=57504, player0-episodic_return=-19.5
+-20.0
+game=8, global_step=57504, player1-episodic_return=-19.5
+-20.0
+game=15, global_step=58016, player0-episodic_return=-17.9
+-20.0
+game=15, global_step=58016, player1-episodic_return=-17.9
+-20.0
+game=6, global_step=58496, player0-episodic_return=-16.4
+-20.0
+game=6, global_step=58496, player1-episodic_return=-16.4
+-20.0
+game=0, global_step=58592, player0-episodic_return=-16.099999999999998
+-20.0
+game=0, global_step=58592, player1-episodic_return=-16.099999999999998
+-20.0
+game=10, global_step=58624, player0-episodic_return=-15.999999999999998
+-20.0
+game=10, global_step=58624, player1-episodic_return=-15.999999999999998
+-20.0
+game=11, global_step=58784, player0-episodic_return=-15.5
+-20.0
+game=11, global_step=58784, player1-episodic_return=-15.5
+-20.0
+game=1, global_step=59072, player0-episodic_return=-14.600000000000003
+-20.0
+game=1, global_step=59072, player1-episodic_return=-14.600000000000003
+-20.0
+game=5, global_step=59520, player0-episodic_return=-18.3
+-20.0
+game=5, global_step=59520, player1-episodic_return=-18.3
+-20.0
+game=3, global_step=60672, player0-episodic_return=-14.7
+-20.0
+game=3, global_step=60672, player1-episodic_return=-14.7
+-20.0
+game=13, global_step=60736, player0-episodic_return=-14.5
+-20.0
+game=13, global_step=60736, player1-episodic_return=-14.5
+-20.0
+game=14, global_step=60864, player0-episodic_return=-14.100000000000003
+-20.0
+game=14, global_step=60864, player1-episodic_return=-14.100000000000003
+-20.0
+game=7, global_step=61344, player0-episodic_return=-12.600000000000014
+-20.0
+game=7, global_step=61344, player1-episodic_return=-12.600000000000014
+Entro no_grad()
+SPS: 155
+-20.0
+game=4, global_step=61856, player0-episodic_return=-18.7
+-20.0
+game=4, global_step=61856, player1-episodic_return=-18.7
+-20.0
+game=9, global_step=62656, player0-episodic_return=-16.2
+-20.0
+game=9, global_step=62656, player1-episodic_return=-16.2
+-20.0
+game=12, global_step=64992, player0-episodic_return=-14.000000000000004
+-20.0
+game=12, global_step=64992, player1-episodic_return=-14.000000000000004
+-20.0
+game=2, global_step=65152, player0-episodic_return=-13.500000000000007
+-20.0
+game=2, global_step=65152, player1-episodic_return=-13.500000000000007
+Entro no_grad()
+SPS: 155
+-20.0
+game=8, global_step=65856, player0-episodic_return=-19.0
+-20.0
+game=8, global_step=65856, player1-episodic_return=-19.0
+-20.0
+game=15, global_step=66368, player0-episodic_return=-17.4
+-20.0
+game=15, global_step=66368, player1-episodic_return=-17.4
+-20.0
+game=6, global_step=66848, player0-episodic_return=-15.899999999999999
+-20.0
+game=6, global_step=66848, player1-episodic_return=-15.899999999999999
+-20.0
+game=0, global_step=66944, player0-episodic_return=-15.6
+-20.0
+game=0, global_step=66944, player1-episodic_return=-15.6
+-20.0
+game=10, global_step=66976, player0-episodic_return=-15.5
+-20.0
+game=10, global_step=66976, player1-episodic_return=-15.5
+-20.0
+game=11, global_step=67136, player0-episodic_return=-15.000000000000002
+-20.0
+game=11, global_step=67136, player1-episodic_return=-15.000000000000002
+-20.0
+game=1, global_step=67424, player0-episodic_return=-14.100000000000005
+-20.0
+game=1, global_step=67424, player1-episodic_return=-14.100000000000005
+-20.0
+game=5, global_step=67872, player0-episodic_return=-17.799999999999997
+-20.0
+game=5, global_step=67872, player1-episodic_return=-17.799999999999997
+-20.0
+game=3, global_step=69024, player0-episodic_return=-14.200000000000003
+-20.0
+game=3, global_step=69024, player1-episodic_return=-14.200000000000003
+-20.0
+game=13, global_step=69088, player0-episodic_return=-14.000000000000004
+-20.0
+game=13, global_step=69088, player1-episodic_return=-14.000000000000004
+-20.0
+game=14, global_step=69216, player0-episodic_return=-13.600000000000007
+-20.0
+game=14, global_step=69216, player1-episodic_return=-13.600000000000007
+Entro no_grad()
+SPS: 155
+-20.0
+game=7, global_step=69696, player0-episodic_return=-19.8
+-20.0
+game=7, global_step=69696, player1-episodic_return=-19.8
+-20.0
+game=4, global_step=70208, player0-episodic_return=-18.2
+-20.0
+game=4, global_step=70208, player1-episodic_return=-18.2
+-20.0
+game=9, global_step=71008, player0-episodic_return=-15.7
+-20.0
+game=9, global_step=71008, player1-episodic_return=-15.7
+-20.0
+game=12, global_step=73344, player0-episodic_return=-13.500000000000007
+-20.0
+game=12, global_step=73344, player1-episodic_return=-13.500000000000007
+-20.0
+game=2, global_step=73504, player0-episodic_return=-13.00000000000001
+-20.0
+game=2, global_step=73504, player1-episodic_return=-13.00000000000001
+Entro no_grad()
+SPS: 155
+-20.0
+game=8, global_step=74208, player0-episodic_return=-18.5
+-20.0
+game=8, global_step=74208, player1-episodic_return=-18.5
+-20.0
+game=15, global_step=74720, player0-episodic_return=-16.9
+-20.0
+game=15, global_step=74720, player1-episodic_return=-16.9
+-20.0
+game=6, global_step=75200, player0-episodic_return=-15.4
+-20.0
+game=6, global_step=75200, player1-episodic_return=-15.4
+-20.0
+game=0, global_step=75296, player0-episodic_return=-15.100000000000001
+-20.0
+game=0, global_step=75296, player1-episodic_return=-15.100000000000001
+-20.0
+game=10, global_step=75328, player0-episodic_return=-15.000000000000002
+-20.0
+game=10, global_step=75328, player1-episodic_return=-15.000000000000002
+-20.0
+game=1, global_step=75776, player0-episodic_return=-13.600000000000007
+-20.0
+game=1, global_step=75776, player1-episodic_return=-13.600000000000007
+-20.0
+game=5, global_step=76224, player0-episodic_return=-17.299999999999997
+-20.0
+game=5, global_step=76224, player1-episodic_return=-17.299999999999997
+-20.0
+game=3, global_step=77376, player0-episodic_return=-13.700000000000006
+-20.0
+game=3, global_step=77376, player1-episodic_return=-13.700000000000006
+-20.0
+game=13, global_step=77440, player0-episodic_return=-13.500000000000007
+-20.0
+game=13, global_step=77440, player1-episodic_return=-13.500000000000007
+-20.0
+game=11, global_step=77504, player0-episodic_return=-13.30000000000001
+-20.0
+game=11, global_step=77504, player1-episodic_return=-13.30000000000001
+-20.0
+game=14, global_step=77568, player0-episodic_return=-13.10000000000001
+-20.0
+game=14, global_step=77568, player1-episodic_return=-13.10000000000001
+Entro no_grad()
+SPS: 155
+-20.0
+game=7, global_step=78048, player0-episodic_return=-19.3
+-20.0
+game=7, global_step=78048, player1-episodic_return=-19.3
+-20.0
+game=4, global_step=78560, player0-episodic_return=-17.7
+-20.0
+game=4, global_step=78560, player1-episodic_return=-17.7
+-20.0
+game=9, global_step=79360, player0-episodic_return=-15.200000000000001
+-20.0
+game=9, global_step=79360, player1-episodic_return=-15.200000000000001
+-20.0
+game=12, global_step=81696, player0-episodic_return=-13.00000000000001
+-20.0
+game=12, global_step=81696, player1-episodic_return=-13.00000000000001
+-20.0
+game=2, global_step=81856, player0-episodic_return=-12.500000000000014
+-20.0
+game=2, global_step=81856, player1-episodic_return=-12.500000000000014
+Entro no_grad()
+SPS: 155
+-20.0
+game=8, global_step=82560, player0-episodic_return=-18.0
+-20.0
+game=8, global_step=82560, player1-episodic_return=-18.0
+-20.0
+game=15, global_step=83072, player0-episodic_return=-16.4
+-20.0
+game=15, global_step=83072, player1-episodic_return=-16.4
+-20.0
+game=6, global_step=83552, player0-episodic_return=-14.900000000000002
+-20.0
+game=6, global_step=83552, player1-episodic_return=-14.900000000000002
+-20.0
+game=0, global_step=83648, player0-episodic_return=-14.600000000000003
+-20.0
+game=0, global_step=83648, player1-episodic_return=-14.600000000000003
+-20.0
+game=10, global_step=83680, player0-episodic_return=-14.500000000000004
+-20.0
+game=10, global_step=83680, player1-episodic_return=-14.500000000000004
+-20.0
+game=1, global_step=84128, player0-episodic_return=-18.2
+-20.0
+game=1, global_step=84128, player1-episodic_return=-18.2
+-20.0
+game=5, global_step=84576, player0-episodic_return=-16.799999999999997
+-20.0
+game=5, global_step=84576, player1-episodic_return=-16.799999999999997
+-20.0
+game=3, global_step=85728, player0-episodic_return=-13.20000000000001
+-20.0
+game=3, global_step=85728, player1-episodic_return=-13.20000000000001
+-20.0
+game=11, global_step=85856, player0-episodic_return=-12.800000000000011
+-20.0
+game=11, global_step=85856, player1-episodic_return=-12.800000000000011
+-20.0
+game=14, global_step=85920, player0-episodic_return=-12.600000000000014
+-20.0
+game=14, global_step=85920, player1-episodic_return=-12.600000000000014
+Entro no_grad()
+SPS: 155
+-20.0
+game=7, global_step=86400, player0-episodic_return=-18.8
+-20.0
+game=7, global_step=86400, player1-episodic_return=-18.8
+-20.0
+game=4, global_step=86912, player0-episodic_return=-17.2
+-20.0
+game=4, global_step=86912, player1-episodic_return=-17.2
+-20.0
+game=9, global_step=87712, player0-episodic_return=-14.700000000000003
+-20.0
+game=9, global_step=87712, player1-episodic_return=-14.700000000000003
+-20.0
+game=13, global_step=88320, player0-episodic_return=-17.9
+-20.0
+game=13, global_step=88320, player1-episodic_return=-17.9
+-20.0
+game=12, global_step=90048, player0-episodic_return=-12.500000000000014
+-20.0
+game=12, global_step=90048, player1-episodic_return=-12.500000000000014
+Entro no_grad()
+SPS: 156
+-20.0
+game=2, global_step=90208, player0-episodic_return=-19.7
+-20.0
+game=2, global_step=90208, player1-episodic_return=-19.7
+-20.0
+game=8, global_step=90912, player0-episodic_return=-17.5
+-20.0
+game=8, global_step=90912, player1-episodic_return=-17.5
+-20.0
+game=15, global_step=91424, player0-episodic_return=-15.899999999999999
+-20.0
+game=15, global_step=91424, player1-episodic_return=-15.899999999999999
+-20.0
+game=6, global_step=91904, player0-episodic_return=-14.400000000000004
+-20.0
+game=6, global_step=91904, player1-episodic_return=-14.400000000000004
+-20.0
+game=0, global_step=92000, player0-episodic_return=-14.100000000000005
+-20.0
+game=0, global_step=92000, player1-episodic_return=-14.100000000000005
+-20.0
+game=10, global_step=92032, player0-episodic_return=-14.000000000000005
+-20.0
+game=10, global_step=92032, player1-episodic_return=-14.000000000000005
+-20.0
+game=1, global_step=92480, player0-episodic_return=-17.7
+-20.0
+game=1, global_step=92480, player1-episodic_return=-17.7
+-20.0
+game=5, global_step=92928, player0-episodic_return=-16.299999999999997
+-20.0
+game=5, global_step=92928, player1-episodic_return=-16.299999999999997
+-20.0
+game=3, global_step=94080, player0-episodic_return=-12.700000000000014
+-20.0
+game=3, global_step=94080, player1-episodic_return=-12.700000000000014
+-20.0
+game=11, global_step=94208, player0-episodic_return=-12.300000000000015
+-20.0
+game=11, global_step=94208, player1-episodic_return=-12.300000000000015
+Entro no_grad()
+SPS: 156
+-20.0
+game=7, global_step=94752, player0-episodic_return=-18.3
+-20.0
+game=7, global_step=94752, player1-episodic_return=-18.3
+-20.0
+game=4, global_step=95264, player0-episodic_return=-16.7
+-20.0
+game=4, global_step=95264, player1-episodic_return=-16.7
+-20.0
+game=9, global_step=96064, player0-episodic_return=-14.200000000000005
+-20.0
+game=9, global_step=96064, player1-episodic_return=-14.200000000000005
+-20.0
+game=13, global_step=96672, player0-episodic_return=-17.399999999999995
+-20.0
+game=13, global_step=96672, player1-episodic_return=-17.399999999999995
+-20.0
+game=14, global_step=96800, player0-episodic_return=-16.999999999999996
+-20.0
+game=14, global_step=96800, player1-episodic_return=-16.999999999999996
+Entro no_grad()
+SPS: 156
+-20.0
+game=12, global_step=98400, player0-episodic_return=-19.7
+-20.0
+game=12, global_step=98400, player1-episodic_return=-19.7
+-20.0
+game=2, global_step=98560, player0-episodic_return=-19.2
+-20.0
+game=2, global_step=98560, player1-episodic_return=-19.2
+-20.0
+game=8, global_step=99264, player0-episodic_return=-17.0
+-20.0
+game=8, global_step=99264, player1-episodic_return=-17.0
+-20.0
+game=15, global_step=99776, player0-episodic_return=-15.4
+-20.0
+game=15, global_step=99776, player1-episodic_return=-15.4
+-20.0
+game=6, global_step=100256, player0-episodic_return=-13.900000000000006
+-20.0
+game=6, global_step=100256, player1-episodic_return=-13.900000000000006
+-20.0
+game=0, global_step=100352, player0-episodic_return=-13.600000000000007
+-20.0
+game=0, global_step=100352, player1-episodic_return=-13.600000000000007
+-20.0
+game=10, global_step=100384, player0-episodic_return=-13.500000000000007
+-20.0
+game=10, global_step=100384, player1-episodic_return=-13.500000000000007
+-20.0
+game=1, global_step=100832, player0-episodic_return=-17.199999999999996
+-20.0
+game=1, global_step=100832, player1-episodic_return=-17.199999999999996
+-20.0
+game=5, global_step=101280, player0-episodic_return=-15.799999999999997
+-20.0
+game=5, global_step=101280, player1-episodic_return=-15.799999999999997
+Entro no_grad()
+SPS: 156
+-20.0
+game=3, global_step=102432, player0-episodic_return=-19.9
+-20.0
+game=3, global_step=102432, player1-episodic_return=-19.9
+-20.0
+game=11, global_step=102560, player0-episodic_return=-19.5
+-20.0
+game=11, global_step=102560, player1-episodic_return=-19.5
+-20.0
+game=4, global_step=103616, player0-episodic_return=-16.2
+-20.0
+game=4, global_step=103616, player1-episodic_return=-16.2
+-20.0
+game=13, global_step=105024, player0-episodic_return=-16.899999999999995
+-20.0
+game=13, global_step=105024, player1-episodic_return=-16.899999999999995
+-20.0
+game=14, global_step=105152, player0-episodic_return=-16.499999999999996
+-20.0
+game=14, global_step=105152, player1-episodic_return=-16.499999999999996
+-20.0
+game=7, global_step=105376, player0-episodic_return=-15.799999999999997
+-20.0
+game=7, global_step=105376, player1-episodic_return=-15.799999999999997
+Entro no_grad()
+SPS: 156
+-20.0
+game=12, global_step=106752, player0-episodic_return=-19.2
+-20.0
+game=12, global_step=106752, player1-episodic_return=-19.2
+-20.0
+game=2, global_step=106912, player0-episodic_return=-18.7
+-20.0
+game=2, global_step=106912, player1-episodic_return=-18.7
+-20.0
+game=9, global_step=107424, player0-episodic_return=-17.099999999999998
+-20.0
+game=9, global_step=107424, player1-episodic_return=-17.099999999999998
+-20.0
+game=8, global_step=107616, player0-episodic_return=-16.5
+-20.0
+game=8, global_step=107616, player1-episodic_return=-16.5
+-20.0
+game=15, global_step=108128, player0-episodic_return=-14.900000000000002
+-20.0
+game=15, global_step=108128, player1-episodic_return=-14.900000000000002
+-20.0
+game=6, global_step=108608, player0-episodic_return=-13.400000000000007
+-20.0
+game=6, global_step=108608, player1-episodic_return=-13.400000000000007
+-20.0
+game=0, global_step=108704, player0-episodic_return=-18.2
+-20.0
+game=0, global_step=108704, player1-episodic_return=-18.2
+-20.0
+game=10, global_step=108736, player0-episodic_return=-18.099999999999998
+-20.0
+game=10, global_step=108736, player1-episodic_return=-18.099999999999998
+-20.0
+game=1, global_step=109184, player0-episodic_return=-16.699999999999996
+-20.0
+game=1, global_step=109184, player1-episodic_return=-16.699999999999996
+-20.0
+game=5, global_step=109632, player0-episodic_return=-15.299999999999997
+-20.0
+game=5, global_step=109632, player1-episodic_return=-15.299999999999997
+Entro no_grad()
+SPS: 156
+-20.0
+game=3, global_step=110784, player0-episodic_return=-19.4
+-20.0
+game=3, global_step=110784, player1-episodic_return=-19.4
+-20.0
+game=11, global_step=110912, player0-episodic_return=-19.0
+-20.0
+game=11, global_step=110912, player1-episodic_return=-19.0
+-20.0
+game=4, global_step=111968, player0-episodic_return=-15.7
+-20.0
+game=4, global_step=111968, player1-episodic_return=-15.7
+-20.0
+game=13, global_step=113376, player0-episodic_return=-16.399999999999995
+-20.0
+game=13, global_step=113376, player1-episodic_return=-16.399999999999995
+-20.0
+game=14, global_step=113504, player0-episodic_return=-15.999999999999996
+-20.0
+game=14, global_step=113504, player1-episodic_return=-15.999999999999996
+-20.0
+game=7, global_step=113728, player0-episodic_return=-15.299999999999997
+-20.0
+game=7, global_step=113728, player1-episodic_return=-15.299999999999997
+Entro no_grad()
+SPS: 156
+-20.0
+game=12, global_step=115104, player0-episodic_return=-18.7
+-20.0
+game=12, global_step=115104, player1-episodic_return=-18.7
+-20.0
+game=2, global_step=115264, player0-episodic_return=-18.2
+-20.0
+game=2, global_step=115264, player1-episodic_return=-18.2
+-20.0
+game=9, global_step=115776, player0-episodic_return=-16.599999999999998
+-20.0
+game=9, global_step=115776, player1-episodic_return=-16.599999999999998
+-20.0
+game=8, global_step=115968, player0-episodic_return=-15.999999999999998
+-20.0
+game=8, global_step=115968, player1-episodic_return=-15.999999999999998
+-20.0
+game=15, global_step=116480, player0-episodic_return=-14.400000000000004
+-20.0
+game=15, global_step=116480, player1-episodic_return=-14.400000000000004
+-20.0
+game=6, global_step=116960, player0-episodic_return=-18.0
+-20.0
+game=6, global_step=116960, player1-episodic_return=-18.0
+-20.0
+game=0, global_step=117056, player0-episodic_return=-17.7
+-20.0
+game=0, global_step=117056, player1-episodic_return=-17.7
+-20.0
+game=10, global_step=117088, player0-episodic_return=-17.599999999999998
+-20.0
+game=10, global_step=117088, player1-episodic_return=-17.599999999999998
+-20.0
+game=1, global_step=117536, player0-episodic_return=-16.199999999999996
+-20.0
+game=1, global_step=117536, player1-episodic_return=-16.199999999999996
+-20.0
+game=5, global_step=117984, player0-episodic_return=-14.8
+-20.0
+game=5, global_step=117984, player1-episodic_return=-14.8
+Entro no_grad()
+SPS: 156
+-20.0
+game=3, global_step=119136, player0-episodic_return=-18.9
+-20.0
+game=3, global_step=119136, player1-episodic_return=-18.9
+-20.0
+game=11, global_step=119264, player0-episodic_return=-18.5
+-20.0
+game=11, global_step=119264, player1-episodic_return=-18.5
+-20.0
+game=4, global_step=120320, player0-episodic_return=-15.200000000000001
+-20.0
+game=4, global_step=120320, player1-episodic_return=-15.200000000000001
+-20.0
+game=13, global_step=121728, player0-episodic_return=-15.899999999999995
+-20.0
+game=13, global_step=121728, player1-episodic_return=-15.899999999999995
+-20.0
+game=14, global_step=121856, player0-episodic_return=-15.499999999999996
+-20.0
+game=14, global_step=121856, player1-episodic_return=-15.499999999999996
+-20.0
+game=7, global_step=122080, player0-episodic_return=-14.8
+-20.0
+game=7, global_step=122080, player1-episodic_return=-14.8
+Entro no_grad()
+SPS: 156
+-20.0
+game=12, global_step=123456, player0-episodic_return=-18.2
+-20.0
+game=12, global_step=123456, player1-episodic_return=-18.2
+-20.0
+game=2, global_step=123616, player0-episodic_return=-17.7
+-20.0
+game=2, global_step=123616, player1-episodic_return=-17.7
+-20.0
+game=9, global_step=124128, player0-episodic_return=-16.099999999999998
+-20.0
+game=9, global_step=124128, player1-episodic_return=-16.099999999999998
+-20.0
+game=8, global_step=124320, player0-episodic_return=-15.5
+-20.0
+game=8, global_step=124320, player1-episodic_return=-15.5
+-20.0
+game=15, global_step=124832, player0-episodic_return=-13.900000000000006
+-20.0
+game=15, global_step=124832, player1-episodic_return=-13.900000000000006
+-20.0
+game=6, global_step=125312, player0-episodic_return=-17.499999999999996
+-20.0
+game=6, global_step=125312, player1-episodic_return=-17.499999999999996
+-20.0
+game=0, global_step=125408, player0-episodic_return=-17.199999999999996
+-20.0
+game=0, global_step=125408, player1-episodic_return=-17.199999999999996
+-20.0
+game=10, global_step=125440, player0-episodic_return=-17.099999999999994
+-20.0
+game=10, global_step=125440, player1-episodic_return=-17.099999999999994
+-20.0
+game=1, global_step=125888, player0-episodic_return=-15.699999999999996
+-20.0
+game=1, global_step=125888, player1-episodic_return=-15.699999999999996
+-20.0
+game=5, global_step=126336, player0-episodic_return=-14.300000000000002
+-20.0
+game=5, global_step=126336, player1-episodic_return=-14.300000000000002
+Entro no_grad()
+SPS: 156
+-20.0
+game=3, global_step=127488, player0-episodic_return=-18.4
+-20.0
+game=3, global_step=127488, player1-episodic_return=-18.4
+-20.0
+game=11, global_step=127616, player0-episodic_return=-18.0
+-20.0
+game=11, global_step=127616, player1-episodic_return=-18.0
+-20.0
+game=4, global_step=128672, player0-episodic_return=-14.700000000000003
+-20.0
+game=4, global_step=128672, player1-episodic_return=-14.700000000000003
+-20.0
+game=13, global_step=130080, player0-episodic_return=-15.399999999999999
+-20.0
+game=13, global_step=130080, player1-episodic_return=-15.399999999999999
+-20.0
+game=14, global_step=130208, player0-episodic_return=-15.0
+-20.0
+game=14, global_step=130208, player1-episodic_return=-15.0
+-20.0
+game=7, global_step=130432, player0-episodic_return=-14.300000000000002
+-20.0
+game=7, global_step=130432, player1-episodic_return=-14.300000000000002
+Entro no_grad()
+SPS: 156
+-20.0
+game=12, global_step=131808, player0-episodic_return=-17.7
+-20.0
+game=12, global_step=131808, player1-episodic_return=-17.7
+-20.0
+game=2, global_step=131968, player0-episodic_return=-17.2
+-20.0
+game=2, global_step=131968, player1-episodic_return=-17.2
+-20.0
+game=9, global_step=132480, player0-episodic_return=-15.6
+-20.0
+game=9, global_step=132480, player1-episodic_return=-15.6
+-20.0
+game=8, global_step=132672, player0-episodic_return=-15.000000000000002
+-20.0
+game=8, global_step=132672, player1-episodic_return=-15.000000000000002
+-20.0
+game=15, global_step=133184, player0-episodic_return=-13.400000000000007
+-20.0
+game=15, global_step=133184, player1-episodic_return=-13.400000000000007
+-20.0
+game=6, global_step=133664, player0-episodic_return=-16.999999999999996
+-20.0
+game=6, global_step=133664, player1-episodic_return=-16.999999999999996
+-20.0
+game=0, global_step=133760, player0-episodic_return=-16.699999999999996
+-20.0
+game=0, global_step=133760, player1-episodic_return=-16.699999999999996
+-20.0
+game=10, global_step=133792, player0-episodic_return=-16.599999999999994
+-20.0
+game=10, global_step=133792, player1-episodic_return=-16.599999999999994
+-20.0
+game=1, global_step=134240, player0-episodic_return=-15.2
+-20.0
+game=1, global_step=134240, player1-episodic_return=-15.2
+-20.0
+game=5, global_step=134688, player0-episodic_return=-13.800000000000006
+-20.0
+game=5, global_step=134688, player1-episodic_return=-13.800000000000006
+Entro no_grad()
+SPS: 156
+-20.0
+game=3, global_step=135840, player0-episodic_return=-17.9
+-20.0
+game=3, global_step=135840, player1-episodic_return=-17.9
+-20.0
+game=11, global_step=135968, player0-episodic_return=-17.5
+-20.0
+game=11, global_step=135968, player1-episodic_return=-17.5
+-20.0
+game=4, global_step=137024, player0-episodic_return=-14.200000000000005
+-20.0
+game=4, global_step=137024, player1-episodic_return=-14.200000000000005
+-20.0
+game=13, global_step=138432, player0-episodic_return=-14.899999999999999
+-20.0
+game=13, global_step=138432, player1-episodic_return=-14.899999999999999
+-20.0
+game=14, global_step=138560, player0-episodic_return=-14.5
+-20.0
+game=14, global_step=138560, player1-episodic_return=-14.5
+-20.0
+game=7, global_step=138784, player0-episodic_return=-13.800000000000006
+-20.0
+game=7, global_step=138784, player1-episodic_return=-13.800000000000006
+Entro no_grad()
+SPS: 156
+-20.0
+game=12, global_step=140160, player0-episodic_return=-17.2
+-20.0
+game=12, global_step=140160, player1-episodic_return=-17.2
+-20.0
+game=2, global_step=140320, player0-episodic_return=-16.7
+-20.0
+game=2, global_step=140320, player1-episodic_return=-16.7
+-20.0
+game=9, global_step=140832, player0-episodic_return=-15.100000000000001
+-20.0
+game=9, global_step=140832, player1-episodic_return=-15.100000000000001
+-20.0
+game=8, global_step=141024, player0-episodic_return=-14.500000000000004
+-20.0
+game=8, global_step=141024, player1-episodic_return=-14.500000000000004
+-20.0
+game=15, global_step=141536, player0-episodic_return=-18.0
+-20.0
+game=15, global_step=141536, player1-episodic_return=-18.0
+-20.0
+game=6, global_step=142016, player0-episodic_return=-16.499999999999996
+-20.0
+game=6, global_step=142016, player1-episodic_return=-16.499999999999996
+-20.0
+game=0, global_step=142112, player0-episodic_return=-16.199999999999996
+-20.0
+game=0, global_step=142112, player1-episodic_return=-16.199999999999996
+-20.0
+game=10, global_step=142144, player0-episodic_return=-16.099999999999994
+-20.0
+game=10, global_step=142144, player1-episodic_return=-16.099999999999994
+-20.0
+game=1, global_step=142592, player0-episodic_return=-14.7
+-20.0
+game=1, global_step=142592, player1-episodic_return=-14.7
+-20.0
+game=5, global_step=143040, player0-episodic_return=-13.30000000000001
+-20.0
+game=5, global_step=143040, player1-episodic_return=-13.30000000000001
+Entro no_grad()
+SPS: 156
+-20.0
+game=3, global_step=144192, player0-episodic_return=-17.4
+-20.0
+game=3, global_step=144192, player1-episodic_return=-17.4
+-20.0
+game=11, global_step=144320, player0-episodic_return=-17.0
+-20.0
+game=11, global_step=144320, player1-episodic_return=-17.0
+-20.0
+game=4, global_step=145376, player0-episodic_return=-13.700000000000006
+-20.0
+game=4, global_step=145376, player1-episodic_return=-13.700000000000006
+-20.0
+game=13, global_step=146784, player0-episodic_return=-14.400000000000002
+-20.0
+game=13, global_step=146784, player1-episodic_return=-14.400000000000002
+-20.0
+game=14, global_step=146912, player0-episodic_return=-14.000000000000004
+-20.0
+game=14, global_step=146912, player1-episodic_return=-14.000000000000004
+-20.0
+game=7, global_step=147136, player0-episodic_return=-13.30000000000001
+-20.0
+game=7, global_step=147136, player1-episodic_return=-13.30000000000001
+Entro no_grad()
+SPS: 156
+-20.0
+game=12, global_step=148512, player0-episodic_return=-16.7
+-20.0
+game=12, global_step=148512, player1-episodic_return=-16.7
+-20.0
+game=2, global_step=148672, player0-episodic_return=-16.2
+-20.0
+game=2, global_step=148672, player1-episodic_return=-16.2
+-20.0
+game=9, global_step=149184, player0-episodic_return=-14.600000000000003
+-20.0
+game=9, global_step=149184, player1-episodic_return=-14.600000000000003
+-20.0
+game=15, global_step=149888, player0-episodic_return=-17.499999999999996
+-20.0
+game=15, global_step=149888, player1-episodic_return=-17.499999999999996
+-20.0
+game=6, global_step=150368, player0-episodic_return=-15.999999999999996
+-20.0
+game=6, global_step=150368, player1-episodic_return=-15.999999999999996
+-20.0
+game=0, global_step=150464, player0-episodic_return=-15.699999999999996
+-20.0
+game=0, global_step=150464, player1-episodic_return=-15.699999999999996
+-20.0
+game=10, global_step=150496, player0-episodic_return=-15.599999999999998
+-20.0
+game=10, global_step=150496, player1-episodic_return=-15.599999999999998
+-20.0
+game=1, global_step=150944, player0-episodic_return=-14.200000000000003
+-20.0
+game=1, global_step=150944, player1-episodic_return=-14.200000000000003
+-20.0
+game=5, global_step=151392, player0-episodic_return=-12.800000000000011
+-20.0
+game=5, global_step=151392, player1-episodic_return=-12.800000000000011
+Entro no_grad()
+SPS: 156
+-20.0
+game=8, global_step=152288, player0-episodic_return=-17.7
+-20.0
+game=8, global_step=152288, player1-episodic_return=-17.7
+-20.0
+game=3, global_step=152544, player0-episodic_return=-16.9
+-20.0
+game=3, global_step=152544, player1-episodic_return=-16.9
+-20.0
+game=4, global_step=153728, player0-episodic_return=-18.3
+-20.0
+game=4, global_step=153728, player1-episodic_return=-18.3
+-20.0
+game=11, global_step=154784, player0-episodic_return=-15.0
+-20.0
+game=11, global_step=154784, player1-episodic_return=-15.0
+-20.0
+game=13, global_step=155136, player0-episodic_return=-13.900000000000006
+-20.0
+game=13, global_step=155136, player1-episodic_return=-13.900000000000006
+-20.0
+game=14, global_step=155264, player0-episodic_return=-13.500000000000007
+-20.0
+game=14, global_step=155264, player1-episodic_return=-13.500000000000007
+-20.0
+game=7, global_step=155488, player0-episodic_return=-12.800000000000011
+-20.0
+game=7, global_step=155488, player1-episodic_return=-12.800000000000011
+Entro no_grad()
+SPS: 156
+-20.0
+game=12, global_step=156864, player0-episodic_return=-16.2
+-20.0
+game=12, global_step=156864, player1-episodic_return=-16.2
+-20.0
+game=2, global_step=157024, player0-episodic_return=-15.7
+-20.0
+game=2, global_step=157024, player1-episodic_return=-15.7
+-20.0
+game=9, global_step=157536, player0-episodic_return=-14.100000000000005
+-20.0
+game=9, global_step=157536, player1-episodic_return=-14.100000000000005
+-20.0
+game=15, global_step=158240, player0-episodic_return=-16.999999999999996
+-20.0
+game=15, global_step=158240, player1-episodic_return=-16.999999999999996
+-20.0
+game=6, global_step=158720, player0-episodic_return=-15.499999999999996
+-20.0
+game=6, global_step=158720, player1-episodic_return=-15.499999999999996
+-20.0
+game=10, global_step=158848, player0-episodic_return=-15.099999999999998
+-20.0
+game=10, global_step=158848, player1-episodic_return=-15.099999999999998
+-20.0
+game=5, global_step=159744, player0-episodic_return=-12.300000000000015
+-20.0
+game=5, global_step=159744, player1-episodic_return=-12.300000000000015
+Entro no_grad()
+SPS: 156
+-20.0
+game=8, global_step=160640, player0-episodic_return=-17.2
+-20.0
+game=8, global_step=160640, player1-episodic_return=-17.2
+-20.0
+game=3, global_step=160896, player0-episodic_return=-16.4
+-20.0
+game=3, global_step=160896, player1-episodic_return=-16.4
+-20.0
+game=0, global_step=161152, player0-episodic_return=-15.6
+-20.0
+game=0, global_step=161152, player1-episodic_return=-15.6
+-20.0
+game=1, global_step=161568, player0-episodic_return=-14.300000000000004
+-20.0
+game=1, global_step=161568, player1-episodic_return=-14.300000000000004
+-20.0
+game=11, global_step=163136, player0-episodic_return=-14.5
+-20.0
+game=11, global_step=163136, player1-episodic_return=-14.5
+-20.0
+game=13, global_step=163488, player0-episodic_return=-13.40000000000001
+-20.0
+game=13, global_step=163488, player1-episodic_return=-13.40000000000001
+-20.0
+game=14, global_step=163616, player0-episodic_return=-13.00000000000001
+-20.0
+game=14, global_step=163616, player1-episodic_return=-13.00000000000001
+-20.0
+game=7, global_step=163840, player0-episodic_return=-12.300000000000015
+-20.0
+game=7, global_step=163840, player1-episodic_return=-12.300000000000015
+Entro no_grad()
+SPS: 156
+-20.0
+game=4, global_step=165152, player0-episodic_return=-15.899999999999999
+-20.0
+game=4, global_step=165152, player1-episodic_return=-15.899999999999999
+-20.0
+game=12, global_step=165216, player0-episodic_return=-15.7
+-20.0
+game=12, global_step=165216, player1-episodic_return=-15.7
+-20.0
+game=2, global_step=165376, player0-episodic_return=-15.200000000000001
+-20.0
+game=2, global_step=165376, player1-episodic_return=-15.200000000000001
+-20.0
+game=9, global_step=165888, player0-episodic_return=-13.600000000000007
+-20.0
+game=9, global_step=165888, player1-episodic_return=-13.600000000000007
+-20.0
+game=15, global_step=166592, player0-episodic_return=-16.499999999999996
+-20.0
+game=15, global_step=166592, player1-episodic_return=-16.499999999999996
+-20.0
+game=6, global_step=167072, player0-episodic_return=-15.0
+-20.0
+game=6, global_step=167072, player1-episodic_return=-15.0
+-20.0
+game=10, global_step=167200, player0-episodic_return=-14.600000000000001
+-20.0
+game=10, global_step=167200, player1-episodic_return=-14.600000000000001
+Entro no_grad()
+SPS: 156
+-20.0
+game=5, global_step=168096, player0-episodic_return=-19.5
+-20.0
+game=5, global_step=168096, player1-episodic_return=-19.5
+-20.0
+game=8, global_step=168992, player0-episodic_return=-16.7
+-20.0
+game=8, global_step=168992, player1-episodic_return=-16.7
+-20.0
+game=3, global_step=169248, player0-episodic_return=-15.899999999999999
+-20.0
+game=3, global_step=169248, player1-episodic_return=-15.899999999999999
+-20.0
+game=0, global_step=169504, player0-episodic_return=-15.100000000000001
+-20.0
+game=0, global_step=169504, player1-episodic_return=-15.100000000000001
+-20.0
+game=1, global_step=169920, player0-episodic_return=-13.800000000000006
+-20.0
+game=1, global_step=169920, player1-episodic_return=-13.800000000000006
+-20.0
+game=11, global_step=171488, player0-episodic_return=-14.000000000000004
+-20.0
+game=11, global_step=171488, player1-episodic_return=-14.000000000000004
+-20.0
+game=13, global_step=171840, player0-episodic_return=-12.900000000000013
+-20.0
+game=13, global_step=171840, player1-episodic_return=-12.900000000000013
+-20.0
+game=14, global_step=171968, player0-episodic_return=-12.500000000000014
+-20.0
+game=14, global_step=171968, player1-episodic_return=-12.500000000000014
+Entro no_grad()
+SPS: 156
+-20.0
+game=7, global_step=172192, player0-episodic_return=-19.5
+-20.0
+game=7, global_step=172192, player1-episodic_return=-19.5
+-20.0
+game=4, global_step=173504, player0-episodic_return=-15.4
+-20.0
+game=4, global_step=173504, player1-episodic_return=-15.4
+-20.0
+game=12, global_step=173568, player0-episodic_return=-15.200000000000001
+-20.0
+game=12, global_step=173568, player1-episodic_return=-15.200000000000001
+-20.0
+game=2, global_step=173728, player0-episodic_return=-14.700000000000003
+-20.0
+game=2, global_step=173728, player1-episodic_return=-14.700000000000003
+-20.0
+game=9, global_step=174240, player0-episodic_return=-18.2
+-20.0
+game=9, global_step=174240, player1-episodic_return=-18.2
+-20.0
+game=15, global_step=174944, player0-episodic_return=-15.999999999999996
+-20.0
+game=15, global_step=174944, player1-episodic_return=-15.999999999999996
+-20.0
+game=6, global_step=175424, player0-episodic_return=-14.5
+-20.0
+game=6, global_step=175424, player1-episodic_return=-14.5
+-20.0
+game=10, global_step=175552, player0-episodic_return=-14.100000000000003
+-20.0
+game=10, global_step=175552, player1-episodic_return=-14.100000000000003
+Entro no_grad()
+SPS: 156
+-20.0
+game=5, global_step=176448, player0-episodic_return=-19.0
+-20.0
+game=5, global_step=176448, player1-episodic_return=-19.0
+-20.0
+game=0, global_step=177856, player0-episodic_return=-14.600000000000003
+-20.0
+game=0, global_step=177856, player1-episodic_return=-14.600000000000003
+-20.0
+game=1, global_step=178272, player0-episodic_return=-13.300000000000008
+-20.0
+game=1, global_step=178272, player1-episodic_return=-13.300000000000008
+-20.0
+game=8, global_step=178912, player0-episodic_return=-16.399999999999995
+-20.0
+game=8, global_step=178912, player1-episodic_return=-16.399999999999995
+-20.0
+game=3, global_step=180064, player0-episodic_return=-12.800000000000011
+-20.0
+game=3, global_step=180064, player1-episodic_return=-12.800000000000011
+Entro no_grad()
+SPS: 156
+-20.0
+game=11, global_step=181440, player0-episodic_return=-16.2
+-20.0
+game=11, global_step=181440, player1-episodic_return=-16.2
+-20.0
+game=4, global_step=181856, player0-episodic_return=-14.900000000000002
+-20.0
+game=4, global_step=181856, player1-episodic_return=-14.900000000000002
+-20.0
+game=12, global_step=181920, player0-episodic_return=-14.700000000000003
+-20.0
+game=12, global_step=181920, player1-episodic_return=-14.700000000000003
+-20.0
+game=13, global_step=182400, player0-episodic_return=-18.3
+-20.0
+game=13, global_step=182400, player1-episodic_return=-18.3
+-20.0
+game=9, global_step=182592, player0-episodic_return=-17.7
+-20.0
+game=9, global_step=182592, player1-episodic_return=-17.7
+-20.0
+game=14, global_step=182592, player0-episodic_return=-17.7
+-20.0
+game=14, global_step=182592, player1-episodic_return=-17.7
+-20.0
+game=15, global_step=183296, player0-episodic_return=-15.499999999999996
+-20.0
+game=15, global_step=183296, player1-episodic_return=-15.499999999999996
+-20.0
+game=6, global_step=183776, player0-episodic_return=-14.000000000000004
+-20.0
+game=6, global_step=183776, player1-episodic_return=-14.000000000000004
+-20.0
+game=10, global_step=183904, player0-episodic_return=-13.600000000000007
+-20.0
+game=10, global_step=183904, player1-episodic_return=-13.600000000000007
+-20.0
+game=7, global_step=183936, player0-episodic_return=-13.500000000000012
+-20.0
+game=7, global_step=183936, player1-episodic_return=-13.500000000000012
+Entro no_grad()
+SPS: 156
+-20.0
+game=5, global_step=184800, player0-episodic_return=-18.5
+-20.0
+game=5, global_step=184800, player1-episodic_return=-18.5
+-20.0
+game=2, global_step=185184, player0-episodic_return=-17.299999999999997
+-20.0
+game=2, global_step=185184, player1-episodic_return=-17.299999999999997
+-20.0
+game=0, global_step=186208, player0-episodic_return=-14.100000000000005
+-20.0
+game=0, global_step=186208, player1-episodic_return=-14.100000000000005
+-20.0
+game=1, global_step=186624, player0-episodic_return=-17.9
+-20.0
+game=1, global_step=186624, player1-episodic_return=-17.9
+-20.0
+game=8, global_step=187264, player0-episodic_return=-15.899999999999995
+-20.0
+game=8, global_step=187264, player1-episodic_return=-15.899999999999995
+-20.0
+game=3, global_step=188416, player0-episodic_return=-12.300000000000015
+-20.0
+game=3, global_step=188416, player1-episodic_return=-12.300000000000015
+Entro no_grad()
+SPS: 156
+-20.0
+game=12, global_step=190272, player0-episodic_return=-14.200000000000005
+-20.0
+game=12, global_step=190272, player1-episodic_return=-14.200000000000005
+-20.0
+game=9, global_step=190944, player0-episodic_return=-17.199999999999996
+-20.0
+game=9, global_step=190944, player1-episodic_return=-17.199999999999996
+-20.0
+game=15, global_step=191648, player0-episodic_return=-15.0
+-20.0
+game=15, global_step=191648, player1-episodic_return=-15.0
+-20.0
+game=4, global_step=192128, player0-episodic_return=-13.500000000000007
+-20.0
+game=4, global_step=192128, player1-episodic_return=-13.500000000000007
+-20.0
+game=6, global_step=192128, player0-episodic_return=-13.500000000000007
+-20.0
+game=6, global_step=192128, player1-episodic_return=-13.500000000000007
+-20.0
+game=10, global_step=192256, player0-episodic_return=-13.10000000000001
+-20.0
+game=10, global_step=192256, player1-episodic_return=-13.10000000000001
+-20.0
+game=7, global_step=192288, player0-episodic_return=-13.00000000000001
+-20.0
+game=7, global_step=192288, player1-episodic_return=-13.00000000000001
+-20.0
+game=11, global_step=192512, player0-episodic_return=-12.300000000000015
+-20.0
+game=11, global_step=192512, player1-episodic_return=-12.300000000000015
+Entro no_grad()
+SPS: 156
+-20.0
+game=13, global_step=193568, player0-episodic_return=-16.7
+-20.0
+game=13, global_step=193568, player1-episodic_return=-16.7
+-20.0
+game=14, global_step=193760, player0-episodic_return=-16.099999999999998
+-20.0
+game=14, global_step=193760, player1-episodic_return=-16.099999999999998
+-20.0
+game=1, global_step=194976, player0-episodic_return=-17.399999999999995
+-20.0
+game=1, global_step=194976, player1-episodic_return=-17.399999999999995
+-20.0
+game=2, global_step=195136, player0-episodic_return=-16.899999999999995
+-20.0
+game=2, global_step=195136, player1-episodic_return=-16.899999999999995
+Entro no_grad()
+SPS: 156

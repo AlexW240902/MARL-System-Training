@@ -1,0 +1,114 @@
+{
+    "os": "Linux-6.8.0-45-generic-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-09-30T23:34:09.040912",
+    "startedAt": "2024-09-30T23:34:08.380513",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/alex/Desktop/atari/dqn/dqn_atari.py",
+    "codePathLocal": "dqn_atari.py",
+    "codePath": "dqn_atari.py",
+    "host": "alex-linux",
+    "username": "alex",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2562.3923749999994,
+        "min": 1400.0,
+        "max": 2900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1730.979,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1903.409,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1390.789,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1384.539,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1359.345,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 4222.599,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1396.407,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 3237.727,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1400.0,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1397.386,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1397.427,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1525.053,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 3252.204,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1397.359,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1397.335,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1397.285,
+            "min": 1400.0,
+            "max": 2900.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 97.37984466552734,
+            "used": 33.67753982543945
+        }
+    },
+    "memory": {
+        "total": 14.994266510009766
+    }
+}
