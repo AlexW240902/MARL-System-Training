@@ -1,1 +1,0 @@
-{"_wandb": {"runtime": 19}, "global_step": 900, "_timestamp": 1727741022.654671, "_runtime": 17.683445930480957, "_step": 9, "losses/td_loss": 1.917155032060691e-06, "losses/q_values": 0.042598724365234375, "charts/SPS": 55.0}
